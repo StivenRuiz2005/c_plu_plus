@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1670273028 source:c:\users\asus\onedrive\documentos\programacion\programacion oo\ejercicio2_taller2\main.cpp
+	<iostream>
+	<Sala.h>
+
+1671769681 c:\users\asus\onedrive\documentos\programacion\programacion oo\ejercicio2_taller2\include\sala.h
+	<Espectadores.h>
+	<iostream>
+	<iomanip>
+	<time.h>
+	<stdlib.h>
+	<Pelicula.h>
+	<vector>
+	<random>
+	<string>
+
+1669923601 c:\users\asus\onedrive\documentos\programacion\programacion oo\ejercicio2_taller2\include\espectadores.h
+	<iostream>
+
+1669882873 c:\users\asus\onedrive\documentos\programacion\programacion oo\ejercicio2_taller2\include\pelicula.h
+	<iostream>
+

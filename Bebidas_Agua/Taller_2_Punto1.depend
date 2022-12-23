@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1669477702 source:c:\users\asus\onedrive\documentos\programacion\programacion oo\taller_2_punto1\main.cpp
+	<iostream>
+	<Bodega.h>
+
+1669478172 c:\users\asus\onedrive\documentos\programacion\programacion oo\taller_2_punto1\include\bodega.h
+	<iostream>
+	<Agua_mineral.h>
+	<Bebida.h>
+
+1669478148 c:\users\asus\onedrive\documentos\programacion\programacion oo\taller_2_punto1\include\agua_mineral.h
+	<iostream>
+	<Bodega.h>
+
+1669478148 c:\users\asus\onedrive\documentos\programacion\programacion oo\taller_2_punto1\include\bebida.h
+	<iostream>
+	<Bodega.h>
+

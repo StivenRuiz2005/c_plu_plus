@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1668458581 source:c:\users\asus\onedrive\documentos\programacion\programacion oo\herencia\main.cpp
+	<iostream>
+	<Suma.h>
+	<Resta.h>
+	<Multiplicacion.h>
+	<Division.h>
+
+1668457112 c:\users\asus\onedrive\documentos\programacion\programacion oo\herencia\include\operacion.h
+	<iostream>
+
+1668456500 c:\users\asus\onedrive\documentos\programacion\programacion oo\herencia\include\suma.h
+	<iostream>
+	<Operacion.h>
+
+1668456500 c:\users\asus\onedrive\documentos\programacion\programacion oo\herencia\include\resta.h
+	<iostream>
+	<Operacion.h>
+
+1668457112 c:\users\asus\onedrive\documentos\programacion\programacion oo\herencia\include\multiplicacion.h
+	<iostream>
+	<Operacion.h>
+
+1668457112 c:\users\asus\onedrive\documentos\programacion\programacion oo\herencia\include\division.h
+	<iostream>
+	<Operacion.h>
+

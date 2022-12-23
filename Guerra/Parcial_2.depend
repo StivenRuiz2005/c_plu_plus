@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1669706059 source:c:\users\asus\onedrive\documentos\programacion\programacion oo\parcial_2\main.cpp
+	<iostream>
+	<Mapa.h>
+	<Personas.h>
+	<windows.h>
+	<ctime>
+
+1669745290 c:\users\asus\onedrive\documentos\programacion\programacion oo\parcial_2\include\mapa.h
+	<Personas.h>
+	<iostream>
+	<stdlib.h>
+
+1669762842 c:\users\asus\onedrive\documentos\programacion\programacion oo\parcial_2\include\personas.h
+	<iostream>
+

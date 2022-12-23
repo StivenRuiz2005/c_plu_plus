@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666037809 source:c:\users\asus\onedrive\documentos\programacion\programacion oo\clase_8\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
