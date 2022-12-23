@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1667858092 source:c:\users\usuario\desktop\clases univalle\2022bipoo\hechosenclase\mundoinsectosenclase\main.cpp
+	<iostream>
+	<Tablero.h>
+	<windows.h>
+	<ctime>
+
+1667857823 c:\users\usuario\desktop\clases univalle\2022bipoo\hechosenclase\mundoinsectosenclase\tablero.h
+	<iostream>
+	<Insecto.h>
+	<windows.h>
+	<ctime>
+
+1667854555 c:\users\usuario\desktop\clases univalle\2022bipoo\hechosenclase\mundoinsectosenclase\insecto.h
+	<iostream>
+
+1667996982 source:c:\users\asus\onedrive\documentos\programacion\programacion oo\ejercicio insectos\mundoinsectosenclase\main.cpp
+	<iostream>
+	<Tablero.h>
+	<windows.h>
+	<ctime>
+
+1669665907 c:\users\asus\onedrive\documentos\programacion\programacion oo\ejercicio insectos\mundoinsectosenclase\tablero.h
+	<iostream>
+	<Insecto.h>
+	<windows.h>
+	<ctime>
+
+1668454869 c:\users\asus\onedrive\documentos\programacion\programacion oo\ejercicio insectos\mundoinsectosenclase\insecto.h
+	<iostream>
+
